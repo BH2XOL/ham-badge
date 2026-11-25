@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="547" height="40" viewBox="0 0 547 40" role="img" aria-label="STATION ON AIR · 14.270 SSB · CQWW 14:15Z">
+<title>STATION ON AIR · 14.270 SSB · CQWW 14:15Z</title>
+<defs>
+  <clipPath id="md3-pill"><rect width="547" height="40" rx="20" ry="20"/></clipPath>
+</defs>
+<g clip-path="url(#md3-pill)">
+  <rect width="118" height="40" fill="#2B2930"/>
+  <rect x="118" width="429" height="40" fill="#146C2E"/>
+  <line x1="118" y1="0" x2="118" y2="40" stroke="#49454F" stroke-width="1" stroke-opacity="0.5"/>
+</g>
+<rect x="0.5" y="0.5" width="546" height="39" rx="20" ry="20" fill="none" stroke="#49454F" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="144.0" cy="20" r="6" fill="#80E29C"/>
+<g font-family="Roboto, 'Noto Sans', 'Segoe UI', system-ui, -apple-system, sans-serif" font-size="18" letter-spacing="0.2" text-anchor="middle">
+  <text x="59.0" y="26" fill="#E6E0E9" font-weight="500">STATION</text>
+  <text x="343.5" y="26" fill="#FFFFFF" font-weight="600">ON AIR · 14.270 SSB · CQWW 14:15Z</text>
+</g>
+</svg>

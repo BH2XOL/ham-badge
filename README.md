@@ -2,6 +2,13 @@
 
 业余无线电（HAM）台站通联状态服务与 Material Design 3（MD3）风格可嵌入状态徽章。
 
+## 徽章预览
+
+| 状态 | 效果预览 |
+| --- | --- |
+| **ON AIR（通联中）** | ![ON AIR](./docs/badge-onair.svg) |
+| **OFF AIR（离线）** | ![OFF AIR](./docs/badge-offair.svg) |
+
 ## 功能特性
 
 - **实时台站状态**：支持 `onair`（通联中）与 `close`（离线）状态，支持记录工作模式（`mode`）、频率（`freq`）与比赛/活动备注（`note`，最多 32 个字符）。
